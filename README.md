@@ -15,4 +15,4 @@ Cada diretório de curso contém um conjunto de exercícios organizados em pasta
 
 ## Licença
 
-Este repositório é licenciado sob a [Licença MIT](link para a licença), o que significa que você pode usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software, mas sempre incluindo o aviso de direitos autorais original e a permissão. Consulte o arquivo `LICENSE` para mais informações.
+Este repositório é licenciado sob a [Licença MIT](), o que significa que você pode usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software, mas sempre incluindo o aviso de direitos autorais original e a permissão. Consulte o arquivo `LICENSE` para mais informações.
